@@ -24,6 +24,7 @@ A simple Discord bot that can play music from YouTube in voice channels.
 3. Create a `.env` file in the project root and add your Discord bot token:
    ```
    DISCORD_TOKEN=your_bot_token_here
+   OPENAI_TOKEN=your_token_here
    ```
 
 4. Run the bot:
